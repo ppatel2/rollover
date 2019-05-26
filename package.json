@@ -1,0 +1,26 @@
+{
+  "name": "rollover",
+  "version": "1.0.0",
+  "description": "Data transfer from Slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppatel2/rollover.git"
+  },
+  "keywords": [
+    "Slack",
+    "Data",
+    "Transfer",
+    "migration",
+    "stuff"
+  ],
+  "author": "Pritesh Patel <ppatel2@github>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppatel2/rollover/issues"
+  },
+  "homepage": "https://github.com/ppatel2/rollover#readme"
+}
